@@ -1,0 +1,276 @@
+Girilen Şifre: 123456
+Kırılan Şifre: 123456
+Süre: 1.31 saniye
+------------------------------
+Girilen Şifre: 123456
+Kırılan Şifre: 123456
+Süre: 1.56 saniye
+------------------------------
+Girilen Şifre: password123
+Kırılan Şifre: password123
+Süre: 1.94 saniye
+------------------------------
+Girilen Şifre: password123
+Kırılan Şifre: password123
+Süre: 2.00 saniye
+------------------------------
+Girilen Şifre: password123
+Kırılan Şifre: password123
+Süre: 1.86 saniye
+------------------------------
+Girilen Şifre: asdasd06
+Kırılan Şifre: asdasd06
+Süre: 1.60 saniye
+------------------------------
+Girilen Şifre: asd
+Kırılan Şifre: asd
+Süre: 0.00 saniye
+------------------------------
+Girilen Şifre: asd
+Kırılan Şifre: asd
+Süre: 0.00 saniye
+------------------------------
+Girilen Şifre: 123
+Kırılan Şifre: 123
+Süre: 0.04 saniye
+------------------------------
+Girilen Şifre: asd
+Kırılan Şifre: asd
+Süre: 0.00 saniye
+------------------------------
+Girilen Şifre: 123
+Kırılan Şifre: 123
+Süre: 0.04 saniye
+------------------------------
+Girilen Şifre: qwe
+Kırılan Şifre: qwe
+Süre: 0.01 saniye
+------------------------------
+Girilen Şifre: asd
+Kırılan Şifre: asd
+Süre: 0.00 saniye
+------------------------------
+Girilen Şifre: jku
+Kırılan Şifre: jku
+Süre: 0.01 saniye
+------------------------------
+Girilen Şifre: asdf
+Kırılan Şifre: asdf
+Süre: 0.11 saniye
+------------------------------
+Girilen Şifre: asdfg
+Kırılan Şifre: asdfg
+Süre: 15.76 saniye
+------------------------------
+Girilen Şifre: asdasd06
+Kırılan Şifre: asdasd06
+Süre: 6.44 saniye
+------------------------------
+Girilen Şifre: asdf
+Kırılan Şifre: asdf
+Süre: 0.08 saniye
+------------------------------
+Girilen Şifre: asdasd06
+Kırılan Şifre: asdasd06
+Süre: 70.06 saniye
+------------------------------
+Girilen Şifre: asdasd06
+Kırılan Şifre: asdasd06
+Süre: 1.50 saniye
+------------------------------
+Girilen Şifre: asd
+Kırılan Şifre: asd
+Süre: 0.00 saniye
+------------------------------
+Girilen Şifre: asdf
+Kırılan Şifre: asdf
+Süre: 0.07 saniye
+------------------------------
+Girilen Şifre: asdfg
+Kırılan Şifre: asdfg
+Süre: 8.67 saniye
+------------------------------
+Girilen Şifre: asdasd06
+Kırılan Şifre: asdasd06
+Süre: 2.11 saniye
+------------------------------
+Girilen Şifre: hello
+Kırılan Şifre: hello
+Süre: 1.87 saniye
+------------------------------
+Girilen Şifre: asd
+Kırılan Şifre: asd
+Süre: 0.00 saniye
+------------------------------
+Girilen Şifre: asdf
+Kırılan Şifre: asdf
+Süre: 0.07 saniye
+------------------------------
+Girilen Şifre: asdfg
+Kırılan Şifre: asdfg
+Süre: 7.17 saniye
+------------------------------
+Girilen Şifre: baru
+Kırılan Şifre: baru
+Süre: 0.12 saniye
+------------------------------
+Girilen Şifre: asdasd06
+Kırılan Şifre: asdasd06
+Süre: 6.63 saniye
+------------------------------
+Girilen Şifre: admin
+Kırılan Şifre: admin
+Süre: 1.55 saniye
+------------------------------
+Girilen Şifre: asd
+Kırılan Şifre: asd
+Süre: 0.00 saniye
+------------------------------
+Girilen Şifre: asdf
+Kırılan Şifre: asdf
+Süre: 0.07 saniye
+------------------------------
+Girilen Şifre: alperenturkseven
+Kırılan Şifre: alperenturkseven
+Süre: 1.77 saniye
+------------------------------
+Girilen Şifre: asdasd06
+Kırılan Şifre: asdasd06
+Süre: 2.77 saniye
+------------------------------
+Girilen Şifre: asd
+Kırılan Şifre: asd
+Süre: 0.00 saniye
+------------------------------
+Girilen Şifre: qwe
+Kırılan Şifre: qwe
+Süre: 0.01 saniye
+------------------------------
+Girilen Şifre: asdf
+Kırılan Şifre: asdf
+Süre: 0.08 saniye
+------------------------------
+Girilen Şifre: root
+Kırılan Şifre: root
+Süre: 3.89 saniye
+------------------------------
+Girilen Şifre: asd
+Kırılan Şifre: asd
+Süre: 0.00 saniye
+------------------------------
+Girilen Şifre: asdf
+Kırılan Şifre: asdf
+Süre: 0.07 saniye
+------------------------------
+Girilen Şifre: root
+Kırılan Şifre: root
+Süre: 2.05 saniye
+------------------------------
+Girilen Şifre: asdfg
+Kırılan Şifre: asdfg
+Süre: 7.45 saniye
+------------------------------
+Girilen Şifre: asdasd06
+Kırılan Şifre: asdasd06
+Süre: 69.80 saniye
+------------------------------
+Girilen Şifre: asdasd06
+Kırılan Şifre: asdasd06
+Süre: 1.53 saniye
+------------------------------
+Girilen Şifre: asdasd06
+Kırılan Şifre: asdasd06
+Süre: 1.29 saniye
+------------------------------
+Girilen Şifre: asdasd06
+Kırılan Şifre: asdasd06
+Süre: 1.79 saniye
+------------------------------
+Girilen Şifre: asdasd06
+Kırılan Şifre: asdasd06
+Süre: 5.54 saniye
+------------------------------
+Girilen Şifre: asd
+Kırılan Şifre: asd
+Süre: 0.00 saniye
+------------------------------
+Girilen Şifre: asdasd06
+Kırılan Şifre: asdasd06
+Süre: 1.77 saniye
+------------------------------
+Girilen Şifre: liljj1
+Kırılan Şifre: liljj1
+Süre: 3.18 saniye
+------------------------------
+Girilen Şifre: alperen
+Kırılan Şifre: alperen
+Süre: 1.80 saniye
+------------------------------
+Girilen Şifre: mehmet
+Kırılan Şifre: mehmet
+Süre: 1.74 saniye
+------------------------------
+Girilen Şifre: 123456789
+Kırılan Şifre: 123456789
+Süre: 2.38 saniye
+------------------------------
+Girilen Şifre: mehmet
+Kırılan Şifre: mehmet
+Süre: 3.13 saniye
+------------------------------
+Girilen Şifre: asd
+Kırılan Şifre: asd
+Süre: 2.43 saniye
+------------------------------
+Girilen Şifre: asdasdasd
+Kırılan Şifre: asdasdasd
+Süre: 1.22 saniye
+------------------------------
+Girilen Şifre: asdasd
+Kırılan Şifre: asdasd
+Süre: 1.40 saniye
+------------------------------
+Girilen Şifre: asdasd
+Kırılan Şifre: asdasd
+Süre: 1.54 saniye
+------------------------------
+Girilen Şifre: asdasd
+Kırılan Şifre: asdasd
+Süre: 1.13 saniye
+------------------------------
+Girilen Şifre: asdfghjkl
+Kırılan Şifre: asdfghjkl
+Süre: 1.35 saniye
+------------------------------
+Girilen Şifre: 987654321
+Kırılan Şifre: 987654321
+Süre: 5.92 saniye
+------------------------------
+Girilen Şifre: hgj
+Kırılan Şifre: hgj
+Süre: 0.01 saniye
+------------------------------
+Girilen Şifre: asd
+Kırılan Şifre: asd
+Süre: 0.00 saniye
+------------------------------
+Girilen Şifre: samet
+Kırılan Şifre: samet
+Süre: 131.43 saniye
+------------------------------
+Girilen Şifre: samet
+Kırılan Şifre: samet
+Süre: 2.46 saniye
+------------------------------
+Girilen Şifre: bozkurt
+Kırılan Şifre: bozkurt
+Süre: 1.48 saniye
+------------------------------
+Girilen Şifre: sabo
+Kırılan Şifre: sabo
+Süre: 1.19 saniye
+------------------------------
+Girilen Şifre: 123
+Kırılan Şifre: 123
+Süre: 0.04 saniye
+------------------------------
